@@ -20,5 +20,3 @@ print(number3 + number)
 float_number = 5.3
 float_number1 = 7.8
 print(float_number + float_number1)
-
-print("No to eluwa yoooooohghf")
