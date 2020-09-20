@@ -41,3 +41,4 @@ print(lista, end=", ")
 # dodawanie elementu do listy i wstawianie go przed indeksem
 a, i = input("Podaj element do dodania i indeks, przed którym ma się znaleźć: ")
 lista.insert(i, a)
+print(lista)
